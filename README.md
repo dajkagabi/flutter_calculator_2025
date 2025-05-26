@@ -18,7 +18,7 @@ Szerettem volna egy letisztult, jól használható számológépet készíteni F
 Ha szeretnéd kipróbálni:
 
 ```bash
-git clone https://github.com/felhasznalonev/flutter-ios-calculator.git
+git clone https://github.com/dajkagabi/flutter_calculator_2025.git
 cd flutter_calculator_2025
 flutter pub get
 flutter run
