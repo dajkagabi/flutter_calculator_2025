@@ -22,3 +22,5 @@ git clone https://github.com/dajkagabi/flutter_calculator_2025.git
 cd flutter_calculator_2025
 flutter pub get
 flutter run
+```
+<img height="300" alt="" src="https://github.com/user-attachments/assets/3f5f0fa0-9516-400b-90e4-d39fa67464c0">
