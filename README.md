@@ -1,16 +1,24 @@
-# flutter_calculator_2025
+# iOS-stílusú Számológép Flutterrel
 
-A new Flutter project.
+Ez egy egyszerű, de igényes számológép alkalmazás, amit Flutterben írtam, főleg tanulási céllal. A cél az volt, hogy megközelítsem az iOS rendszer natív számológépének stílusát és működését, miközben mobil platformokon is jól fusson.
 
-## Getting Started
+## Miért készült?
 
-This project is a starting point for a Flutter application.
+Szerettem volna egy letisztult, jól használható számológépet készíteni Flutterrel, ami nemcsak működik, hanem jól is néz ki. A Cupertino widgeteket használtam, hogy minél inkább hasonlítson az Apple által használt dizájnra.
 
-A few resources to get you started if this is your first Flutter project:
+## Főbb funkciók
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Összeadás, kivonás, szorzás, osztás
+- Tizedes számok kezelése
+- Valós idejű eredmények megjelenítése
+- iOS-szerű felhasználói felület, sötét mód támogatással
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Használat
+
+Ha szeretnéd kipróbálni:
+
+```bash
+git clone https://github.com/dajkagabi/flutter_calculator_2025.git
+cd flutter_calculator_2025
+flutter pub get
+flutter run
