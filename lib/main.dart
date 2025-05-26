@@ -108,7 +108,7 @@ class _CalculatorPageState extends State<CalculatorPage> {
       child: Padding(
         padding: const EdgeInsets.all(6.0),
         child: AspectRatio(
-          // MINDIG 1:1 arány, így a "0" is kör lesz
+         
           aspectRatio: 1,
           child: ElevatedButton(
             style: ElevatedButton.styleFrom(
